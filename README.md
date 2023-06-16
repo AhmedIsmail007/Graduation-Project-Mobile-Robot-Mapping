@@ -16,4 +16,5 @@ $ roslaunch mybot_nav SLAM_REAL.launch # SLAM_REAL.launch for PC
 
 
 
-![Screenshot from 2023-06-16 19-11-33](https://github.com/AhmedIsmail007/Graduation-Project-Mobile-Robot-Mapping/assets/108105551/657f1b56-689c-44e2-9564-3dcc086e64d9)
+![Robot_structure](https://github.com/AhmedIsmail007/Graduation-Project-Mobile-Robot-Mapping/assets/108105551/e2962ef0-5eb0-410b-aaab-6ab026bf1af0)
+
