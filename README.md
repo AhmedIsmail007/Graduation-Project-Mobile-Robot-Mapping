@@ -7,7 +7,7 @@ $ roscore
 
 $ rosrun rosserial_arduino serial_node.py _port:=/dev/ttyACM0 _baud:=57600
 
-$ roslaunch mybot_nav SLAM_REAL.launch # SLAM_REAL_RPI.launch for RPi
+$ roslaunch mybot_nav SLAM_REAL_RPI.launch # SLAM_REAL_RPI.launch for RPi
 
 
 >> PC:
